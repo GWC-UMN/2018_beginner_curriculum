@@ -29,19 +29,18 @@ Logical operators
 ### Class 8 10/30
 Brainstorming projects
 Creating groups for projects
-### Class 9 10/30
+### Class 9 FIELD TRIP WEEK 11/6
 Starting to form outlines for projects
-### Class 10 FIELD TRIP WEEK 11/6
 
 ### ---Block 3---
 Final projects
 
-### Class 11 11/13
+### Class 10 11/13
+### Class 11 11/20
 
-### Class 12 11/20
+### Class 12 11/27
 
-### Class 13 11/27
+### Class 13 12/4
 
-### Class 14 12/4
+### Class 14 12/11
 
-### Class 15 12/11
