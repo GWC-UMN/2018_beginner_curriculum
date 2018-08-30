@@ -5,9 +5,10 @@
 ### ---Block 1--- 
 Teaching core concepts: variables, types, conditions
 
-### Class 1 9/11
-Parents & Students
+### Class 1 9/11 (Parents & Students)
+
 https://www.youtube.com/watch?v=fC9da6eqaqg
+
 Familiarizing selves with Jupyter Notebook
 
 Print statements
