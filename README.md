@@ -7,22 +7,22 @@ Teaching core concepts: variables, types, conditions
 
 ### Class 1 9/11
 Familiarizing selves with Jupyter Notebook
+
 Print statements
 ### Class 2 9/18
-Variables
+Data Types and Variables
 ### Class 3 9/25
-Data types
+Functions
 ### Class 4 10/2
 Conditions
 ### Class 5 10/9
-
+Loops
 ### ---Block 2---
-Combining core concepts: functions, loops
 
 ### Class 6 10/16
-Functions
+Lists
 ### Class 7 10/23
-Loops
+Logical operators
 ### Class 8 10/30
 Brainstorming projects
 Creating groups for projects
