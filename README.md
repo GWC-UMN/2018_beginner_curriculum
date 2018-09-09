@@ -9,9 +9,13 @@ Teaching core concepts: variables, types, conditions
 
 https://www.youtube.com/watch?v=fC9da6eqaqg
 
-Familiarizing selves with Jupyter Notebook
+Create a GWC-HQ Account
 
-Print statements
+Create a Trinket Account
+
+Walk through basic tutorial of Trinket + python. 
+
+
 ### Class 2 9/18
 Data Types and Variables
 ### Class 3 9/25
