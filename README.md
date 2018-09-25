@@ -1,25 +1,9 @@
 # Fall 2018 Beginner Curriculum 
-
-### Class 0 (Volunteer training) 9/5
-
-### ---Block 1--- 
-Teaching core concepts: variables, types, conditions
-
-### Class 1 9/11 (Parents & Students)
-
-https://www.youtube.com/watch?v=fC9da6eqaqg
-
-Create a GWC-HQ Account
-
-Create a Trinket Account
-
-Walk through basic tutorial of Trinket + python. 
-
-
-### Class 2 9/18
-Data Types and Variables
 ### Class 3 9/25
-Functions
+Loops
+
+https://drive.google.com/file/d/1SvdNLXFHfX243zCYpcVKdcmx4aLfTGLM/view?usp=sharing
+
 ### Class 4 10/2
 Conditions
 ### Class 5 10/9
