@@ -2,8 +2,11 @@
 
 ## Daily Questions: 
 What did you do today?
+
 What do you want to do next?
+
 What was the coolest thing you learned?
+
 Was anything really easy? Really hard?
 
 
