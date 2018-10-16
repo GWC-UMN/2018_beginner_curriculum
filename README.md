@@ -14,8 +14,6 @@ Was anything really easy? Really hard?
 ### Class 3 9/25
 Loops
 
-https://drive.google.com/file/d/1SvdNLXFHfX243zCYpcVKdcmx4aLfTGLM/view?usp=sharing
-
 ### Class 4 10/2
 Conditions
 ### Class 5 10/9
@@ -24,6 +22,9 @@ Loops
 
 ### Class 6 10/16
 Lists
+
+https://drive.google.com/file/d/1cf9nZ2hcT0GxV0KN7GzS9vjJLNCnItAu/view?usp=sharing
+
 ### Class 7 10/23
 Logical operators
 ### Class 8 10/30
