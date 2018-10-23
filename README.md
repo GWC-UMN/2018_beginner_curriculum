@@ -27,6 +27,8 @@ https://drive.google.com/file/d/1cf9nZ2hcT0GxV0KN7GzS9vjJLNCnItAu/view?usp=shari
 
 ### Class 7 10/23
 Logical operators
+
+https://drive.google.com/file/d/13ySghCbyVjngms9aHZ33RYYJ_R-J46rM/view?usp=sharing
 ### Class 8 10/30
 Brainstorming projects
 Creating groups for projects
