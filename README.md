@@ -32,7 +32,8 @@ https://drive.google.com/file/d/13ySghCbyVjngms9aHZ33RYYJ_R-J46rM/view?usp=shari
 ### Class 8 10/30
 Brainstorming projects
 Creating groups for projects
-### Class 9 FIELD TRIP WEEK 11/6
+
+### Class 9 11/6
 Starting to form outlines for projects
 
 ### ---Block 3---
@@ -41,7 +42,7 @@ Final projects
 ### Class 10 11/13
 ### Class 11 11/20
 
-### Class 12 11/27
+### Class 12 11/27 FIELD TRIP
 
 ### Class 13 12/4
 
